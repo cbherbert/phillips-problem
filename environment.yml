@@ -1,0 +1,12 @@
+name: dedalus3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=1.26.4
+  - matplotlib=3.8.3
+  - h5py=3.10.0
+  - dedalus
+variables:
+  OMP_NUM_THREADS: 1
+  NUMEXPR_MAX_THREADS: 1
