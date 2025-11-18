@@ -20,6 +20,8 @@ conda activate dedalus3
 jupyter notebook Phillips-problem.ipynb
 ```
 
+In case any issue arises, refer to the [Dedalus documentation](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html).
+
 ### Cloud computing
 
 You can use this notebook without installing or downloading anything on your machine, by using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbherbert/phillips-problem/HEAD)
